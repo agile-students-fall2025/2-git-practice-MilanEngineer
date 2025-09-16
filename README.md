@@ -13,3 +13,6 @@
 * **Migration Away From Cities:** Even though many traditional office buildings remain vacant, more engineers and founders are choosing to work out of residential spaces. These house based spaces create a more focused and community driven environment compared to traditional office spaces.
 
 Despite its potential collaboration and efficiency benefits, I personally would not want to live with my co workers and see them constantly. I think that having a proper work life balance allows people to perform at their best.
+
+* **Comments:**
+It feels as though the original tech bubble that was silicon valley, that often was depicted as one monolithic bubble, has now divided itself into multiple smaller bubbles due to these hacker houses. *— Jessy*
