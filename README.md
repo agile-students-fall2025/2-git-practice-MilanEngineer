@@ -1,5 +1,6 @@
 # Software Development Article 
 
+
 ## Link to Article
 * [What is ‘Cerebral Valley’? San Francisco’s Nerdiest New Neighborhood](https://sfstandard.com/2023/01/13/what-is-cerebral-valley-san-franciscos-nerdiest-new-neighborhood/) – *The San Francisco Standard*
 
@@ -16,3 +17,7 @@ Despite its potential collaboration and efficiency benefits, I personally would 
 
 * **Comments:**
 It feels as though the original tech bubble that was silicon valley, that often was depicted as one monolithic bubble, has now divided itself into multiple smaller bubbles due to these hacker houses. *— Jessy*
+
+## Comments - Laura
+* **Speed vs Sustainability:** I noticed that  grind culture can ship faster, but it also burns people out and narrows down the range of those who participate.
+* **Community vs Neighbourhood:** Another tension I noticed is that the shift into residential hubs can energize founders but also worsen housing pressure. The blur of boundary may lead to unsusatinable work-life balance.
