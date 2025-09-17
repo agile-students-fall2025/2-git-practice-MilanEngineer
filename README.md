@@ -16,3 +16,6 @@ Despite its potential collaboration and efficiency benefits, I personally would 
 
 * **Comments:**
 It feels as though the original tech bubble that was silicon valley, that often was depicted as one monolithic bubble, has now divided itself into multiple smaller bubbles due to these hacker houses. *— Jessy*
+  
+* **Comments:** 
+One tension I noticed is that the shift into residential hubs can energize founders but also worsen housing pressure. The blur of boundary may lead to unsusatinable work-life balance. *— Laura*
